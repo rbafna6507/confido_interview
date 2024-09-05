@@ -1,0 +1,17 @@
+[
+  {
+    "Customer":"Target",
+    "Fill Rate Target":"90%",
+    "Penalty":"1%"
+  },
+  {
+    "Customer":"Walmart",
+    "Fill Rate Target":"95%",
+    "Penalty":"2%"
+  },
+  {
+    "Customer":"CVS",
+    "Fill Rate Target":"90%",
+    "Penalty":"1%"
+  }
+]
